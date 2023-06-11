@@ -6,5 +6,6 @@ Hangfire arka planda çalışan düşük/yüksek performanslı,  kısa veya uzun
 1-) Hangfire.Core
 2-) Hangfire.AspNetCore
 
-# Bu projede hangfire kullanarak 1 dakikada bir DbJob class'ındaki run fonksiyonunu çalıştırarak console saati yazan bir uygulama yapıldı.
+# Proje hakkında
+Bu projede hangfire kullanarak 1 dakikada bir DbJob class'ındaki run fonksiyonunu çalıştırarak console saati yazan bir uygulama yapıldı.
 
